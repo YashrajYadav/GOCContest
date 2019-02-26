@@ -1,0 +1,91 @@
+
+1. A webpage displays a picture. What﻿﻿﻿ ﻿﻿tag ﻿﻿﻿﻿﻿was used to display that picture?
+a. picture
+b. image
+c. img
+d. Src
+c
+2. <b> tag makes the enclosed text bold. What is other tag to make text bold?
+a. <strong>
+b. <dar>
+c. <black>
+d. <emp>
+a
+3. Tags and text that are not directly displayed on the page are written in _____ section?
+a. <html>
+b. <head>
+c. <title>
+d. <body>
+b
+4. Which tag inserts a line horizontally on your web page?
+a. <hr>
+b. <line>
+c. <line direction="horizontal">
+d. <tr>
+a
+5. What should be the first tag in any HTML document?
+a. <head>
+b. <title>
+c. <html>
+d. <document>
+c
+6. Which tag allows you to add a row in a table?
+a. <td> and </td>
+b. <cr> and </cr>
+c. <th> and </th>
+d. <tr> and </tr>
+d
+7. How can you make a bulleted list?
+a. <list>
+b. <nl>
+c. <ul>
+d. <ol>
+c
+8. How can you make a numbered list?
+a. <dl>
+b. <ol>
+c. <list>
+d. <ul>
+b
+9. How can you make an e-mail link?
+a. <a href=”xxx@yyy ”>
+b. <mail href=”xxx@yyy ”>
+c. <mail>xxx@yyy </mail>
+d. <a href=”mailto:xxx@yyy ”>
+d
+10. What is the correct HTML for making a hyperlink?
+a. <a href=”http:// mcqsets.com“>ICT Trends Quiz</a>
+b. <a name=”https://mcqsets.com“>ICT Trends Quiz</a>
+c. <https://mcqsets.com</a>
+d. url=”https://mcqsets.com“>ICT Trends Quiz
+a
+11. Choose the correct HTML tag to make a text italic?
+a. <ii>
+b. <italics>
+c. <italic>
+d. <i>
+d
+12. Choose the correct HTML tag to make a text bold?
+a. <b>
+b. <bold>
+c. <bb>
+d. <bld>
+a
+13. What is the correct HTML for adding a background color?
+a. <body color=”yellow”>
+b. <body bgcolor=”yellow”>
+c. <background>yellow</background>
+d. <body background=”yellow”>
+b
+14. Choose the correct HTML tag for the smallest size heading?
+a. <heading>
+b. <h6>
+c. <h1>
+d. <head>
+b
+15. Which attribute you’ll use with TD tag to merge two cells horizontally?
+a. merge=colspan2
+b. rowspan=2
+c. colspan=2
+d. merge=row2
+b
